@@ -1,4 +1,4 @@
-# NeetCode 150 Solutions
+# NeetCode Solutions
 
 Working through NeetCode as part of my interview preparation.
 Solutions are written in Python and auto-synced from NeetCode.io on every accepted submission.
