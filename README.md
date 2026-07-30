@@ -9,3 +9,5 @@ Arrays, Hashing, Sliding Window, Two Pointers, Binary Search, Trees
 ## Structure
 Problems are organized by topic:
 Data Structures & Algorithms/<problem-name>/submission-0.py
+
+---
